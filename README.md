@@ -73,11 +73,17 @@ Follow these steps to set up the project locally:
 ---
 
 ## 🖼️ Screenshots 
+### Log in Page
 ![Log in Page](https://github.com/user-attachments/assets/aedb1db3-cbd9-4dbd-afe2-596d19c771a8)
+### Reports Page
 ![Reports Page](https://github.com/user-attachments/assets/dd181d4c-92a9-43e8-8000-1fd0cae9d43e)
+### Guest Management Page
 ![Guest Management Page](https://github.com/user-attachments/assets/54edce3c-cad5-4a8b-87ae-ca27a4fefa1f)
+### Bookings Management Page
 ![Bookings Management Page](https://github.com/user-attachments/assets/6d330672-a434-490b-be17-de50df0bbd26)
+### Room Management Page
 ![Room Management Page](https://github.com/user-attachments/assets/d37e83c3-41c2-47cb-bb47-801e7f3672e8)
+### Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/296e5c2b-4b3f-411b-8320-50576654e6e2)
 
 ---
