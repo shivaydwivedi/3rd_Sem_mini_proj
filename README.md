@@ -73,18 +73,22 @@ Follow these steps to set up the project locally:
 ---
 
 ## 🖼️ Screenshots 
+
+
 ### Log in Page
-![Log in Page](https://github.com/user-attachments/assets/aedb1db3-cbd9-4dbd-afe2-596d19c771a8)
+![Log in Page](https://github.com/user-attachments/assets/5de9c882-2520-48e4-a072-f91cfb8600ea)
+
 ### Reports Page
-![Reports Page](https://github.com/user-attachments/assets/dd181d4c-92a9-43e8-8000-1fd0cae9d43e)
+![Reports Page](https://github.com/user-attachments/assets/abb59665-d3cc-48eb-b9ac-d6432fc955b5)
 ### Guest Management Page
-![Guest Management Page](https://github.com/user-attachments/assets/54edce3c-cad5-4a8b-87ae-ca27a4fefa1f)
+![Guest Management Page](https://github.com/user-attachments/assets/8bbc2de3-b8cd-48d2-868b-27139f202014)
 ### Bookings Management Page
-![Bookings Management Page](https://github.com/user-attachments/assets/6d330672-a434-490b-be17-de50df0bbd26)
+![Bookings Management Page](https://github.com/user-attachments/assets/76b54096-61d2-465f-9a6b-114b3ab6b982)
 ### Room Management Page
-![Room Management Page](https://github.com/user-attachments/assets/d37e83c3-41c2-47cb-bb47-801e7f3672e8)
+![Room Management Page](https://github.com/user-attachments/assets/ec379c1b-4cd7-4111-9caa-653f97a9031f)
 ### Dashboard
-![Dashboard](https://github.com/user-attachments/assets/296e5c2b-4b3f-411b-8320-50576654e6e2)
+![Dashboard](https://github.com/user-attachments/assets/9aa2d40f-888a-4697-b155-76de66691912)
+
 
 ---
 
