@@ -99,9 +99,9 @@ Follow these steps to set up the project locally:
 
 ## 🚧 Future Improvements  
 
-- Add backend integration for real-time data management  
-- Improve UI animations and responsiveness  
-- Implement interactive filters for analytics  
+- Backend integration for real-time data management  
+- Improvement in UI animations and responsiveness  
+- Implementation interactive filters for analytics  
 
 ---
 
