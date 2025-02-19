@@ -5,6 +5,8 @@ This project is part of the **"Basics of Web Development"** course at my college
 
 The UI is designed to provide a simple, intuitive layout for hotel staff and management to navigate and manage different aspects of hotel operations, such as room availability, booking status, and key performance metrics through interactive charts.  
 
+
+## Project Link:  https://shivaydwivedi.github.io/3rd_Sem_mini_proj/
 ---
 
 ## ⚙️ Tech Stack  
